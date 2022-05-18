@@ -1,0 +1,21 @@
+// Place all the styles related to the Restaurants controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.container {
+  margin-inline: 10px;
+  display: flex;
+}
+
+.class-list-group {
+  flex-direction: row;
+}
+
+
+.rating {
+  width: 10px;
+  height: 1Opx;
+  background-color: aliceblue;
+  font-weight: bold;
+  list-style: none;
+}
